@@ -1,0 +1,13 @@
+.header {
+    font-style: italic;
+    text-align: center;
+}
+
+.color {
+    background-color: bisque;
+    text-align:center;
+}
+
+.footer {
+    text-align:center;
+}
